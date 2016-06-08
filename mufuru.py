@@ -1,3 +1,12 @@
+"""
+   __  ___     ____     ___  __  __
+  /  |/  /_ __/ __/_ __/ _ \/ / / /
+ / /|_/ / // / _// // / , _/ /_/ / 
+/_/  /_/\_,_/_/  \_,_/_/|_|\____/ v1.0  
+
+The Multi-Function Recurrent Unit
+"""
+
 import tensorflow as tf
 from tensorflow.python.ops.rnn.rnn_cell import *
 
